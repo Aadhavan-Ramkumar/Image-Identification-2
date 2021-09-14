@@ -1,0 +1,68 @@
+body {
+    font-family: 'Besley', serif;
+    background: #F5DBDA;
+}
+
+.Header {
+    background: white;
+    color: #CE2700;
+}
+
+.Header img {
+    width: 100px;
+}
+
+.Main {
+    background: #FFD2C7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.Main label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+#Camera,
+#Snapshot {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.Main button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+.Footer {
+    margin-bottom: 50px;;
+}
+
+.Footer h4 {
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px, 5px, 18px, white;
+}
+
+.Footer img {
+    width: 70px;
+}
+
+.CopyRightFooter {
+    position: fixed;
+    color: #6C757D;
+    bottom: 0;
+    width: 100%;
+    background-color: #F5F5F5;
+    line-height: 3;
+    text-align: center;
+}
